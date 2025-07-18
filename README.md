@@ -19,13 +19,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop](./images/screenshot-1.png.jpg)
-![Mobile](./images/screenshot-2.png.jpg)
+![Desktop](./images/screenshot-1.png)
+![Mobile](./images/screenshot-2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samirhembrom/qr)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link to repo](https://github.com/samirhembrom/qr)
+- Live Site URL: [Link to live page](https://qr-ebon-rho.vercel.app/)
 
 ## My process
 
